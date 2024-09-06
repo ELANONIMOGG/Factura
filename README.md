@@ -91,7 +91,7 @@ Cincuenta y ocho pesos 00/100 M.N.
 Si deseas contribuir a este proyecto, por favor sigue los siguientes pasos:
 
 1. Haz un fork del repositorio.
-2. Crea una nueva rama (git checkout -b feature/nueva-funcionalidad).
-3. Realiza tus cambios y haz commit (git commit -m 'Añadí nueva funcionalidad').
-4. Haz push a la rama (git push origin feature/nueva-funcionalidad).
-5. Abre un Pull Request.
+2. Crea una nueva rama `git checkout -b feature/nueva-funcionalidad`
+3. Realiza tus cambios y haz commit `git commit -m 'Añadí nueva funcionalidad'`
+4. Haz push a la rama `git push origin feature/nueva-funcionalidad`
+5. Abre un `Pull Request`.
