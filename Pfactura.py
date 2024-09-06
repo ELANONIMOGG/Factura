@@ -1,7 +1,6 @@
-from Factura.Decimales import convertir_numero_con_centavos
+import Decimalesp 
 
 def generar_factura():
-
     print("-" * 30)
     print("Factura")
     print("-" * 30)
@@ -41,7 +40,9 @@ def generar_factura():
     print("-" * 60)
     print(f"|                                             Total: ${total:.2f}|")
     print("-" * 60)
-    print(f"|{convertir_numero_con_centavos(total)}|")
+
+    print(Decimalesp.convertir_numero_con_centavos(total))
+
     print("-" * 60)
 
 generar_factura()
