@@ -40,7 +40,7 @@ El módulo `Decimalesp` contiene la función `convertir_numero_con_centavos()` q
 2. Añade los centavos al final, representados en formato numérico (por ejemplo, "50/100").
 
 ### Ejemplo de Factura Generada
-
+```bash
 ------------------------------
 Factura
 ------------------------------
@@ -58,6 +58,7 @@ Fecha: 01/01/2024    Nombre Cliente: Juan Pérez
 ------------------------------------------------------------
 Cincuenta y ocho pesos 00/100 M.N.
 ------------------------------------------------------------
+```
 
 ## Requisitos
 
@@ -70,7 +71,7 @@ Cincuenta y ocho pesos 00/100 M.N.
    ```bash
    git clone https://github.com/ELANONIMOGG/Factura.git
    cd Factura
-   
+
 ## Estructura del Proyecto
   ```bash
   ├── Factura.py
