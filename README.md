@@ -72,12 +72,13 @@ Cincuenta y ocho pesos 00/100 M.N.
    cd Factura
    
 ## Estructura del Proyecto
-
-├── Factura.py
-├── Factura/
-│   └── Decimalesp.py
-├── README.md
-└── requirements.txt
+  ```bash
+  ├── Factura.py
+  ├── Factura/
+  │   └── Decimalesp.py
+  ├── README.md
+  └── requirements.txt
+  ```
 
 - Factura.py: Archivo principal que genera la factura.
 - Factura/Decimalesp.py: Contiene la función convertir_numero_con_centavos() que convierte los montos numéricos a letras.
