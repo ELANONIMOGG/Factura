@@ -16,7 +16,7 @@ El programa permite a los usuarios:
 1. El usuario ingresa los detalles de la factura, incluyendo los productos.
 2. El sistema genera y muestra una factura detallada con el subtotal, el IVA, el total y el monto total en palabras.
 
-## Funcionalidades
+
 
 ### Generación de Factura
 
@@ -70,6 +70,7 @@ Cincuenta y ocho pesos 00/100 M.N.
    ```bash
    git clone https://github.com/ELANONIMOGG/Factura.git
    cd Factura
+   
 ## Estructura del Proyecto
 
 ├── Factura.py
